@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 set -ex
 
 : ${PYTHON_INSTALL_PREFIX:?"PYTHON_INSTALL_PREFIX is not set or is empty"}
